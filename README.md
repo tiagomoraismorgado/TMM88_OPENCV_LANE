@@ -1,6 +1,5 @@
 # 🏁 TMM88_OPENCV_LANE_REVAMP
 
-<div align="center">
 
 ### *Precision. Performance. Perfection.*
 
@@ -41,7 +40,6 @@ pytest  # Like a factory inspection at Zuffenhausen
 
 ## 📜 CERTIFICATE OF AUTHENTICITY
 
-<div align="center">
 
 ```
 
