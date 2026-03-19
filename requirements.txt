@@ -1,0 +1,8 @@
+# 🏁 VISION AUTOBAHN
+# Engineering-grade Computer Vision Stack
+
+# ============================================
+# Precision. Performance. Perfection.
+# ============================================
+opencv-python==4.2.0.34        # High-performance vision processing
+numpy==1.18.4                   # Numerical foundation
